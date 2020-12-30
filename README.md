@@ -1,7 +1,7 @@
 # The FucKeyboard
 This project was inspired by the following meme the rest is pretty self explanatory
 
-![meme](Images/meme.jpg)
+![meme](Images/meme.jpeg)
 
 ## Schematic
 ![sch](Images/sch.png)
