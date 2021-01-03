@@ -2,4 +2,5 @@
   (lib (name ai03-pcb-guide-rescue)(type Legacy)(uri ${KIPRJMOD}/ai03-pcb-guide-rescue.lib)(options "")(descr ""))
   (lib (name keyboard_parts)(type Legacy)(uri ${KIPRJMOD}/Libs/kicad_lib_tmk-master/keyboard_parts.lib)(options "")(descr ""))
   (lib (name mkl27z256vfm4)(type Legacy)(uri ${KIPRJMOD}/Libs/kicad_lib_tmk-master/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri ${KIPRJMOD}/Libs/ProMicroKiCad-master/promicro_library/promicro.lib)(options "")(descr ""))
 )
